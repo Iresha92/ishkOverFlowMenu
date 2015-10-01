@@ -24,8 +24,8 @@
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:text="Version_02"
         android:id="@+id/textView2"
+        android:layout_marginTop="69dp"
+        android:background="#ffdf40"
         android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="97dp"
-        android:background="#ffdf40" />
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
